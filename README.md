@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alina Bila (@alinabilali)! A passionate computer science student from Malaysia.
-- 👀 I’m interested in front-end & back-end development. 
-- 🌱 I’m currently learning C, Java & JavaScript.
+- 📝 My major is web technology.
+- 👀 I’m interested in web developement, web APIs and cloud computing. 
+- 🌱 I’m currently learning C, Java, JavaScript, React, Web Services, .NET, Computer Networking, and much more!
 - 📫 How to reach me: alinaiscoding.carrd.co 
 
 <!---
