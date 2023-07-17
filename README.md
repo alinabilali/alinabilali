@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alina Bila (@alinabilali)! A passionate computer science student from Malaysia.
 - 📝 My major is web technology.
-- 👀 I’m interested in web developement, web APIs and cloud computing. 
+- 👀 I’m interested in web development, web APIs and cloud computing. 
 - 🌱 I’m currently learning C, Java, JavaScript, React, Web Services, .NET, Computer Networking, and much more!
-- 📫 How to reach me: alinaiscoding.carrd.co 
+- 📫 How to reach me: alinaiscoding.carrd.co
 
 <!---
 alinabilali/alinabilali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
