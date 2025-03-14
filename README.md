@@ -68,7 +68,7 @@ I am a recent computer science graduate with a major in Web Technology. I have a
 
 ## Contact
 
-- 📧 **Email:** [your.email@example.com](mailto:itsalinabila@gmail.com)
+- 📧 **Email:** [itsalinabila@gmail.com](mailto:itsalinabila@gmail.com)
 - 💼 **LinkedIn:** [Alina Bila](https://www.linkedin.com/in/alina-bila-ali-azwar/)
 
 ---
