@@ -19,7 +19,7 @@ I am a recent computer science graduate with a major in Web Technology. I have a
 
 - 🌱 I’m currently learning **Network Programming Using C** and **Golang**.
 - 💞️ I’m looking to collaborate on open-source projects related to web development.
-- 📫 How to reach me: [Email](mailto:itsalinabila@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- 📫 How to reach me: [Email](mailto:itsalinabila@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alina-bila-ali-azwar/)
 
 ## Projects
 
@@ -68,9 +68,8 @@ I am a recent computer science graduate with a major in Web Technology. I have a
 
 ## Contact
 
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 💼 **LinkedIn:** [Alina Bila](https://www.linkedin.com/in/yourprofile/)
-- 🌐 **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
+- 📧 **Email:** [your.email@example.com](mailto:itsalinabila@gmail.com)
+- 💼 **LinkedIn:** [Alina Bila](https://www.linkedin.com/in/alina-bila-ali-azwar/)
 
 ---
 
